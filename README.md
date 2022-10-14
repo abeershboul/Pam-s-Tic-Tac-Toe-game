@@ -19,10 +19,11 @@
 
 <br>
 
-### Setup
-
+## Setup:
 <br>
-
+> Python 3.9.5 <br>
+> pytest 7.1.3 <br>
+> 
 #### `.env` requirements (where applicable): None
 
 <br>
@@ -63,5 +64,5 @@
 
 <br>
 
-
+https://github.com/abeershboul/Pam-s-Tic-Tac-Toe-game/pull/1
 
